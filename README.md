@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [abelreda.com](abelreda.com)
+- 👨‍💻 some of my projects are available at [abelreda.com](abelreda.com)
 
 - 💬 Ask me about **React, Android, React Native, and Backend**
 
