@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Multiple Projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working on **Machine Learning Project**
 
 - 👨‍💻 some of my projects are available at [abelreda.com](www.abelreda.com)
 
